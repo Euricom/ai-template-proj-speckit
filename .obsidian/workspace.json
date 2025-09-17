@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "b66ff29ee270aa87",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb6abc76fcaff75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721c456c6b3b6799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a69eebef95096a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "baae439caded7a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c568ec0c7beb752",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a03337f804845ac0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18af47d91e6ba689",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "631b8f4996b25a3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcdef2fd114789d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5155fa59cf549fb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "0970ba8d6c2db95e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "e3bf4efb36b45389",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd77c31cc077ae5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "721c456c6b3b6799",
+  "lastOpenFiles": [
+    "CLAUDE.md",
+    "README.md",
+    "PRPs/README.md",
+    "PRPs/templates/prp_base.md",
+    "PRPs/templates",
+    "PRPs/ai_docs",
+    "PRPs",
+    "specs/stories",
+    "ai_docs",
+    "src",
+    "diagrams/sample-drawing.md",
+    "diagrams/sample-drawing.svg",
+    "images/just a test.md",
+    "diagrams",
+    "images/just a test.svg",
+    "images",
+    "Welcome.md"
+  ]
+}
